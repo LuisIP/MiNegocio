@@ -38,7 +38,7 @@ namespace Win_MiNegocio
             this.ClientSize = new System.Drawing.Size(696, 341);
             this.MaximizeBox = false;
             this.Name = "frmInicioSesion";
-            this.Text = "Inicio de Sesión";
+            this.Text = " Inisio de sesion";
             this.ResumeLayout(false);
 
         }
